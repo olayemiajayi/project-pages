@@ -5,7 +5,8 @@ body {
 .heading {
   text-align: center;
 }
-footer {
+a {
+  display: block;
   text-align: center;
   margin: 3px;
   padding: 1px;
